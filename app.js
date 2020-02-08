@@ -1,5 +1,3 @@
-/* examples/MultipleItems.js */
-
 import React, { Component } from 'react';
 import Slider from '../src/slider';
 
@@ -17,31 +15,13 @@ export default class MultipleItems extends Component {
         <h2> Multiple items </h2>
         <Slider {...settings}>
           <div>
-            <div className="section-deals__itemwrapper">
-              <div className="section-deals__item">
-                <a href="">
-                  <div className="section-deals__tn"></div>1
-                </a>
-              </div>
-            </div>
+            <h3>1</h3>
           </div>
           <div>
-            <div className="section-deals__itemwrapper">
-              <div className="section-deals__item">
-                <a href="">
-                  <div className="section-deals__tn"></div>2
-                </a>
-              </div>
-            </div>
+            <h3>2</h3>
           </div>
           <div>
-            <div className="section-deals__itemwrapper">
-              <div className="section-deals__item">
-                <a href="">
-                  <div className="section-deals__tn"></div>3
-                </a>
-              </div>
-            </div>
+            <h3>3</h3>
           </div>
           <div>
             <h3>4</h3>
