@@ -1,1 +1,77 @@
 /* js */
+
+import React, { Component } from "react";
+import Slider from "../src/slider";
+
+export default class MultipleItems extends Component {
+  render() {
+    const settings = {
+      dots: true,
+      infinite: true,
+      speed: 500,
+      slidesToShow: 3,
+      slidesToScroll: 3
+    };
+    return (
+      <div>
+        <h2> Multiple items </h2>
+        <Slider {...settings}>
+          <div>
+            <div className="section-deals__itemwrapper">
+              <div className="section-deals__item">
+                <a href="">
+                  <div className="section-deals__tn">
+                    
+                  </div>
+                  1
+                </a>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div className="section-deals__itemwrapper">
+              <div className="section-deals__item">
+                <a href="">
+                  <div className="section-deals__tn">
+                    
+                  </div>
+                  2
+                </a>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div className="section-deals__itemwrapper">
+              <div className="section-deals__item">
+                <a href="">
+                  <div className="section-deals__tn">
+                    
+                  </div>
+                  3
+                </a>
+              </div>
+            </div>
+          </div>
+          <div>
+            <h3>4</h3>
+          </div>
+          <div>
+            <h3>5</h3>
+          </div>
+          <div>
+            <h3>6</h3>
+          </div>
+          <div>
+            <h3>7</h3>
+          </div>
+          <div>
+            <h3>8</h3>
+          </div>
+          <div>
+            <h3>9</h3>
+          </div>
+        </Slider>
+      </div>
+    );
+  }
+}
