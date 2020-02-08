@@ -1,4 +1,4 @@
-/* js */
+/* examples/MultipleItems.js */
 
 import React, { Component } from "react";
 import Slider from "../src/slider";
