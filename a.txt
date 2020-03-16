@@ -1,0 +1,25 @@
+Charges Approx
+--------------
+
+HOME_LOAN
+---------
+Bank Processing Charges : *₹50,000*
+Agent Commission        : *₹90,000*
+Insurance               : *₹50,000*
+
+
+MORTGAGE_LOAN
+-------------
+Bank Processing Charges : *₹50,000*
+Agent Commission        : *₹66,000*
+Insurance               : *₹50,000*
+
+
+REGISTRATION
+------------
+charges                 : *₹3,00,000*
+
+
+TOTAL
+-----
+charges                 : *₹6,56000*
