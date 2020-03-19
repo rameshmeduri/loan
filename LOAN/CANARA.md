@@ -11,7 +11,7 @@ ORDINARY
 - [ ] Application Form
 - [ ] Bank Statement(6 Months Salary Credit)
 - [ ] NRO_AC Statement(6 Months)
-- [ ] Overseas Permanent Address Proof
+- [ ] Rental Agreement(Overseas Permanent Address Proof)
 - [ ] Offer Letter
 - [ ] Qualification Copy
 - [ ] HR Letter: Proof of Employment
