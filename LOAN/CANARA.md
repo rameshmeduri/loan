@@ -1,18 +1,25 @@
+NOTARY
+------
+- [ ] Power of Attorney
+- [ ] Passport(All_Pages)
+- [ ] Visa
+- [ ] Company ID Card
+- [ ] Payslips(6 Months)
+
+ORDINARY
+--------
 - [ ] Application Form
-- [ ] To execute General Power of Attorney( Indian embassy or notarised), and GPA's KYC documents
-- [ ] Company ID Card (Xerox)(Notarised)
-- [ ] Six months pay-in-slips (Notarised)
-- [ ] Six months salary credit Bank Statements
-- [ ] Six moths NRO/NRE Bank Statement up to date
+- [ ] Bank Statement(6 Months Salary Credit)
+- [ ] NRO_AC Statement(6 Months)
 - [ ] Overseas Permanent Address Proof
 - [ ] Offer Letter
-- [ ] Passport all pages&valid Visa copy all pages(Notarised)
 - [ ] Qualification Copy
 - [ ] HR Letter: Proof of Employment
 - [ ] Two Photographs
 - [ ] Co Applicant KYC, Passport
-- [ ] If Any incomes in India (Rentals), proof is required
-- [ ] Passport(All_Pages)
+- [ ] If Any Incomes in India(Rentals), proof is required
+- [ ] Aadhar
+- [ ] PAN
 - [ ] Resume
 - [ ] Credit Report
-- [ ] IT Returns 2 years
+- [ ] ITR(2 years)
