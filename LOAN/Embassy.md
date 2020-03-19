@@ -1,0 +1,3 @@
+- [ ] Sticker form duly filled in (available with Passport Application Centres and at the High Commission)
+- [ ] Original documents with 2 sets of copies
+- [ ] Photocopy of Identity Card (NRIC/EP/WP) and Indian Passport (first and last pages) along with the original for verification.
