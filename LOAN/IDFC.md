@@ -1,4 +1,4 @@
-1) Notarized(to be notarized from Indian embassy or apostille centers only)
+NOTARY(to be notarized from Indian embassy or apostille centers only)
 ------------
 - [ ] Power of Attorney
 - [ ] Passport(Front & Last)
@@ -6,8 +6,8 @@
 - [ ] Residence Proof(Bank Statement)
 - [ ] Latest Passport Size Colour Photo
  
-2) Documents To Be Emailed
---------------------------
+ORDINARY
+--------
 - [ ] Resume
 - [ ] ITR(2 years)
 - [ ] Payslips(6 Months)
