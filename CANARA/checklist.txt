@@ -1,0 +1,24 @@
+NOTARY
+------
+1) POA
+2) VISA
+3) Payslips
+
+
+ORDINARY
+--------
+1)  Application Form
+2)  Company Id Card
+3)  Bank Statement(6 Months)
+4)  NRO_AC_Statement(6 Months)
+5)  Rental_Agreement(Address Proof)
+6)  Offer Letter
+7)  Passport(All_Pages)
+8)  Education Certificates
+9)  Proof Of Employment(HR Letter) 
+10) Two Photographs 
+11) Aadhar
+12) PAN
+13) Resume
+14) Credit Report
+15) ITR(2 Years)

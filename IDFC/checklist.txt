@@ -1,0 +1,20 @@
+NOTARY
+------
+1) POA
+2) VISA
+3) Address Proof(Bank Statement)
+
+
+ORDINARY
+--------
+1) PAN
+2) Aadhar
+3) Resume
+4) ITR(2 Years)
+5) Payslips(6 Months)
+6) Bank_Statement(6 Months)
+7) NRO_Bank_Statement(6 Months)
+8) Offer Letter
+9) Credit Report
+10)Passport(All_Pages)
+11)Passport Size Colour Photo
