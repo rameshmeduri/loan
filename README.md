@@ -1,6 +1,2 @@
-- BLS International Services
-- #14-02 
-- Sim Lim Tower 
-- 10 Jalan Basar 
-- Singapore 208787 
-- Bugis MRT
+- ravi.housingloans@gmail.com
+- rejinthala.rohit@idfcfirstbank.com
